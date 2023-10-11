@@ -2,6 +2,13 @@
     height: 150px;
     width: 450px;
     background-color: black;
+    margin: 2px;
+}
+
+.head-shot {
+    width: 20%;
+    height: auto;
+
 }
 
 a {
