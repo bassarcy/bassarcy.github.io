@@ -1,3 +1,9 @@
 [submodule "DigitalClock"]
 	path = DigitalClock
 	url = https://github.com/bassarcy/DigitalClock.git
+[submodule "MovieBrowserApp"]
+	path = MovieBrowserApp
+	url = https://github.com/bassarcy/MovieBrowserApp.git
+[submodule "ToDoList"]
+	path = ToDoList
+	url = https://github.com/bassarcy/ToDoList.git
