@@ -4,3 +4,6 @@
 [submodule "ToDoList"]
 	path = ToDoList
 	url = https://github.com/bassarcy/ToDoList.git
+[submodule "movie-browser-app"]
+	path = movie-browser-app
+	url = https://github.com/bassarcy/MovieBrowserApp.git
