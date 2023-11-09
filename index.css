@@ -8,10 +8,33 @@
 .head-shot {
     width: 20%;
     height: auto;
+    background-color: black;
 
 }
 
 a {
     color: white;
     text-decoration: none;
+}
+
+section {
+    height: 1000px;
+}
+
+#email {
+    color: white;
+}
+
+.wrapper {
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    background: inherit;
+}
+
+.bottom-wrapper {
+    width: 100%;
+    padding-top: 92px;
+    z-index: 5;
+    overflow: auto;
 }
