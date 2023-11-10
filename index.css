@@ -1,28 +1,14 @@
-.project-box {
-    height: 3rem;
-    background-color: black;
-    margin: 2px;
-    border-radius: 5%;
-}
-
-.head-shot {
-    width: 20%;
-    height: auto;
-    background-color: black;
-
-}
-
-a {
-    color: white;
-    text-decoration: none;
-}
+/* General */
 
 section {
     height: 1000px;
 }
 
-#email {
+/* Navbar */
+
+a {
     color: white;
+    text-decoration: none;
 }
 
 .wrapper {
@@ -38,3 +24,36 @@ section {
     z-index: 5;
     overflow: auto;
 }
+
+/* Hero */
+
+.head-shot {
+    width: 20%;
+    height: auto;
+    background-color: black;
+
+}
+
+/* Projects */
+
+.project-box {
+    height: 3rem;
+    background-color: black;
+    margin: 2px;
+    border-radius: 5%;
+}
+
+/* Resume */
+
+/* Contact */
+
+#email {
+    color: white;
+}
+
+/* Other ? */
+
+
+
+
+
